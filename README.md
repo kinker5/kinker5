@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am Jonathan, a senior JavaScript (React/Node) web developer with professional skills and 10 years of experience in software development companies.�‍�</div>  
+### <div align="center">I am Keegan, a senior JavaScript (React/Node) web developer with professional skills and 10 years of experience in software development companies.�‍�</div>  
   
 
 - � I am familiar with new technologies such as blockchain and machine learning, and gained very valuable experience in software development and business logic.  
